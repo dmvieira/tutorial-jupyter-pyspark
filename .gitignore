@@ -4,3 +4,5 @@ jupyterhub_config
 jupyterhub_cookie_secret
 .~lock.tutorial.odp#
 .ipynb_checkpoints
+spark-2.1.0-bin-hadoop2.7.tgz
+spark-2.1.0-bin-hadoop2.7
