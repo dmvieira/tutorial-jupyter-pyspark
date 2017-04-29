@@ -2,5 +2,5 @@
 jupyterhub_config
 *.sqlite
 jupyterhub_cookie_secret
-~.lock*
+.~lock.tutorial.odp#
 .ipynb_checkpoints
