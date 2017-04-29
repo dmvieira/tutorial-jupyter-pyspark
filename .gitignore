@@ -1,0 +1,6 @@
+*.pyc
+jupyterhub_config
+*.sqlite
+jupyterhub_cookie_secret
+~.lock*
+.ipynb_checkpoints
