@@ -6,6 +6,7 @@ alias python=python3
 export SPARK_HOME=/home/teste/tutorial-jupyter-pyspark/spark-2.1.0-bin-hadoop2.7
 export PATH="$PATH:$SPARK_HOME/bin"
 pip3 install jupyter==1.0.0
+pip3 install 'jupyter_client<5.0'
 pip3 install -i https://pypi.anaconda.org/hyoon/simple toree==0.2.0.dev1
 jupyter toree install –spark_home=$SPARK_HOME
 jupyter toree install –interpreters=PySpark
