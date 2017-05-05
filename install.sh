@@ -13,4 +13,4 @@ pip3 install findspark==1.1.0
 pip3 install pandas==0.19.2 matplotlib==2.0.1
 pip3 install jupyterhub==0.7.2
 jupyterhub --generate-config
-npm install -g configurable-http-proxy
+sudo npm install -g configurable-http-proxy
